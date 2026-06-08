@@ -52,7 +52,7 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on the Micro
 
 ## Repository Contents
 
-* `Main_Project.ipynb` – Complete analysis notebook
+* `Microsoft Adventureworks Ecommerce Sales Data Analysis.ipynb` – Complete analysis notebook
 * Dataset used for analysis
 * Visualizations and business insights
 
